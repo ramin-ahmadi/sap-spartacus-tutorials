@@ -1,3 +1,6 @@
+import { B2cStorefrontModule } from '@spartacus/storefront';
+import { translationChunksConfig } from '@spartacus/assets';
+import { translations } from '@spartacus/assets';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
